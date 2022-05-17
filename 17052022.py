@@ -60,5 +60,5 @@ Hay tao danh sach myEvent la cac so chan trong myNum
 '''tuong tu chung ta su dung map nhu filter'''
 
 #hay tao ra mang danh sach lap phuong cac so trong myNumber
-mylapphuong = list(map(lambda x : x**3, myNum))
-print(mylapphuong)
+#mylapphuong = list(map(lambda x : x**3, myNum))
+#print(mylapphuong)

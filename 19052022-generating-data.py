@@ -26,8 +26,8 @@ import matplotlib.pyplot as plt
 Cho hàm số y = 2x + 1
 hãy vẽ đồ thị trong đoạn [2, 10]
 """
-x = np.linspace(2,10,4)
-y = 2*x + 1
+x = np.linspace(2,10,3)
+y = 2*x*x + 1
 
 plt.plot(x,y)
 plt.show()

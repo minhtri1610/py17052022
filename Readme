@@ -9,3 +9,5 @@ pip3 install pandas
 pip3 install seaborn
 pip3 install numpy
 pip3 install matplotlib
+
+ssh-keygen -t ed25519 -C "epsminhtri@gmail.com"

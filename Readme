@@ -3,6 +3,7 @@ pip install pandas
 pip install seaborn
 pip install numpy
 pip install matplotlib
+pip install -U scikit-learn
 
 pip3 install jupyter
 pip3 install pandas

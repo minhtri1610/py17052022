@@ -15,3 +15,5 @@ pip3 install matplotlib
 
 ssh-keygen -t ed25519 -C "epsminhtri@gmail.com"
 testgit01
+
+pip install dash
